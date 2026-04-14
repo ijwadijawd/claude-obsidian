@@ -1,74 +1,51 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-04-07
+status: evergreen
 tags:
   - meta
   - index
-status: evergreen
-related:
-  - "[[overview]]"
-  - "[[log]]"
-  - "[[hot]]"
-  - "[[dashboard]]"
-  - "[[Wiki Map]]"
-  - "[[concepts/_index]]"
-  - "[[entities/_index]]"
-  - "[[sources/_index]]"
-  - "[[LLM Wiki Pattern]]"
-  - "[[Hot Cache]]"
-  - "[[Compounding Knowledge]]"
-  - "[[Andrej Karpathy]]"
 ---
 
-# Wiki Index
+# NASCAR DFS Wiki Index
 
-Last updated: 2026-04-08 | Total pages: 26 | Sources ingested: 2
-
-Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
+Master catalog for the Antigravity NASCAR DFS Knowledge Base.
+Last updated: 2026-04-14 | Sources ingested: 1
 
 ---
 
-## Concepts
+## Core Domains
 
-- [[LLM Wiki Pattern]] — the pattern for building persistent, compounding knowledge bases using LLMs (status: mature)
-- [[Hot Cache]] — ~500-word session context file, updated after every ingest and session (status: mature)
-- [[Compounding Knowledge]] — why wiki knowledge grows more valuable over time, unlike RAG (status: mature)
-- [[cherry-picks]] — prioritized feature backlog from ecosystem research; 13 features to add to claude-obsidian (status: current)
-
----
-
-## Entities
-
-- [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
-- [[Ar9av-obsidian-wiki]] — multi-agent compatible LLM Wiki plugin; delta tracking manifest (status: current)
-- [[Nexus-claudesidian-mcp]] — native Obsidian plugin + MCP bridge; workspace memory, task management (status: current)
-- [[ballred-obsidian-claude-pkm]] — goal cascade PKM; auto-commit hooks, /adopt command (status: current)
-- [[rvk7895-llm-knowledge-bases]] — 3-depth query system, Marp slides, parallel deep research (status: current)
-- [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
-- [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
+- [[tracks/_index|Tracks]] 
+  - [[Bristol Motor Speedway]]
+- [[drivers/_index|Drivers]] 
+  - Dominators: [[Larson]], [[Eckes]]
+  - Closers: [[Preece]], [[Buescher]], [[Chastain]], [[JHN]], [[Bell]], [[Zilisch]], [[Crews]], [[Kvapil]]
+  - Faders: [[Reddick]], [[Majeski]]
+- [[rules/_index|Rules]] 
+  - [[Practice Deg Is Noise]]
+  - [[Dominator Cash Override]]
+  - [[Closer Thesis]]
+  - [[Free PD Trap]]
+  - [[Fader Label Mechanics]]
+- [[lessons/_index|Lessons]]
+  - [[CL-9]] (Dominator Anchors)
+  - [[CL-10]] (Ownership Traps)
+  - [[CL-11]] (Pit Strategy vs Pace)
+  - [[CL-12]] (Bristol Danger Zone)
+- [[hypotheses/_index|Hypotheses]]
+  - [[HT-1]] (Reddick Fade)
+  - [[HT-2]] (Penalty Amplification)
+- [[papers/_index|Research Papers]]
+- [[questions/_index|Open Questions]]
+- [[gaps/_index|Gaps]]
 
 ---
 
 ## Sources
-
-- [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
-
----
-
-## Questions
-
-- [[How does the LLM Wiki pattern work]] — how the pattern works and why it outperforms RAG at human scale (status: developing)
+- [[Bristol Weekend Full Synthesis]]
 
 ---
 
-## Comparisons
-
-- [[Wiki vs RAG]] — when to use a wiki knowledge base versus RAG; verdict: wiki wins at <1000 pages
-- [[claude-obsidian-ecosystem]] — feature matrix of 16+ Claude+Obsidian projects; where claude-obsidian wins and gaps
-
----
-
-## Domains
-
-<!-- Add domain entries here after scaffold -->
+## Navigation
+[[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]]
